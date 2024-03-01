@@ -1,5 +1,5 @@
 """
-projekt_3.py: třetí projekt do Engeto Online Python Akademie
+application: webscraper
 author: Jan Novotny (2024)
 email: bonoman@volny.cz
 discord: Bonoman#0823
@@ -46,6 +46,5 @@ if __name__ == "__main__":
         if not ".csv" in outputFile:
             quit("Invalid CSV name. Quit" + printUsage())
 
-
-# run, run, run...
-main(url, outputFile)
+        # run, run, run...
+        main(url, outputFile)

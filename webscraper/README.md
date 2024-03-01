@@ -1,14 +1,14 @@
 
 O projektu:
 -----------
-Aplikace projekt_3.py slouží ke shromaždění a konsolidaci volebních výsledku z webu https://volby.cz
+Aplikace slouží ke shromaždění a konsolidaci volebních výsledků z webu https://volby.cz
 do výstupního .csv souboru
 
 
 Spouštění aplikace:
 -------------------
 Jedná se o script spustitelný v interpretu python.
-Aplikace vyžaduje tedy nainstalovaný python interpret a dodatečně instalované moduly.
+Aplikace vyžaduje nainstalovaný python interpret a dodatečně instalované moduly.
 Seznam potřebných modulů je vypsán v souboru requirements.txt.
 Aplikace vyžaduje 2 argumenty. 
 První je cílové URL, odkud bude scrapovat data. 
