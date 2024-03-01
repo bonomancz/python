@@ -14,7 +14,7 @@ Aplikace vyžaduje 2 argumenty.
 První je cílové URL, odkud bude scrapovat data. 
 Druhý argument je cesta k výstupnímu datovému souboru s výsledky.
 Příklad spuštění
-python projekt_3.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "vysledky_prostejov.csv"
+python webscraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "vysledky_prostejov.csv"
 
 
 Instalace potřebných souborů pro python:
