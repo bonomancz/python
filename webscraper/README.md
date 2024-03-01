@@ -2,7 +2,7 @@
 O projektu:
 -----------
 Aplikace slouží ke shromaždění a konsolidaci volebních výsledků z webu https://volby.cz
-do výstupního .csv souboru
+do výstupního csv souboru
 
 
 Spouštění aplikace:
