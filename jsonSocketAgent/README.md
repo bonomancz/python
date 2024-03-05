@@ -12,4 +12,5 @@ Application requires python installed.
 
 Required python modules:
 ------------------------
-odbc
+pyodbc
+socket
