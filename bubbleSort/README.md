@@ -1,7 +1,7 @@
 Bubble sort algorithm:
 _______________________________________________________________________
 
-Demonstration of a bubble sorting algorythm.
+Demonstration of a bubble sorting algorithm.
 It is based on comparing values of two numbers in a pair.
 In one cycle it compares two values of every pair in a list and changes
 their position in the pair. Smaller number to left and bigger number to 
