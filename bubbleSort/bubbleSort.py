@@ -17,7 +17,7 @@ def getMax(first, second):
 
 
 def bubbleSort(sortList) -> list:
-    '''returns sorted list according bubble sort algorythm'''
+    '''returns sorted list according bubble sort algorithm'''
     lstLen = len(sortList)
     haveToSort = True
     while haveToSort == True:
