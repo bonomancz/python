@@ -1,0 +1,4 @@
+Quick sort algorithm:
+_______________________________________________________________________
+
+Demonstration of a quick sorting algorithm.
