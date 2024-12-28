@@ -11,10 +11,10 @@ Starting webserver:
 -------------------
 This program requires python interpreter. Required python version >= 3.8.  
 It has 4 variables in main.py file  
-- server_host = "0.0.0.0"             # listening ip address
-- server_port = 8443                  # listening port
-- private_key = "./private.key"       # path to private.key
-- server_cert = "./server.crt"        # path to tls certificate
+- server_host = "0.0.0.0"             &emsp;# listening ip address
+- server_port = 8443                  &emsp;# listening port
+- private_key = "./private.key"       &emsp;# path to private.key
+- server_cert = "./server.crt"        &emsp;# path to tls certificate
 
 After settings this simply run:  
 python ./main.py  
